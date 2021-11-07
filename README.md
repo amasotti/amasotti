@@ -45,8 +45,8 @@
 - Microservices <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/moleculer/moleculer.png"></code>
 
 **📫 How to reach me: ...**
-  - **Email**: toniomasotti<at>gmail<dot>com
-  - **Business Email**: masotti<at>bikeleasing-service<dot>de
+  - **Email**: toniomasotti \<at\> gmail \<dot\> com
+  - **Business Email**: masotti \<at\> bikeleasing-service \<dot\> de
   - Via this github profile
   - [Twitter](https://twitter.com/amasotti3)
   - [Linkedin](https://www.linkedin.com/in/antonio-masotti-438138205/)
