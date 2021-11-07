@@ -53,5 +53,5 @@
 
   
  **My private (playground) account**
-| <a href="https://github.com/amasotti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amasotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Antonio's github stats" /></a> | <a href="https://github.com/amasotti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amasotti&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/amasotti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amasotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Antonio's github stats" /></a> | <a href="https://github.com/amasotti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amasotti&hide_border=true" /></a> |
 | ------------- | ------------- |
