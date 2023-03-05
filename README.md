@@ -17,7 +17,7 @@
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/docker/docker.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/go/go.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/988f88a0e99ae2acced2bcfa1572ac7ce7bfdd02/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/symfony/symfony.png"></code>
 
 **🌱 I’m currently learning ...**
