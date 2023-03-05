@@ -1,8 +1,7 @@
 ### <p align="center"> Welcome to everybody 👋 </p>
 
 **About me**:
-- 👨‍💻 First	Fullstack-dev at [Bikeleasing-Service](https://bikeleasing.de) 
-- 🧑‍🏫 Student of Linguistics in Göttingen
+- 👨‍💻 Tech Lead & Cloud Developer at [Bikeleasing-Service](https://bikeleasing.de) 
 - 👨‍🍳 Hobby cook 
 
 
@@ -13,19 +12,18 @@
 <code><img height="40" src="https://avatars.githubusercontent.com/u/41077760?s=200&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/css/css.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/vue/vue.png"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/docker/docker.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/php/php.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/go/go.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/988f88a0e99ae2acced2bcfa1572ac7ce7bfdd02/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/symfony/symfony.png"></code>
 
 **🌱 I’m currently learning ...**
-- AWS Cloud Services
 - Improving my [Go](https://github.com/golang) skills <img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/go/go.png">
 - Improving my [Rust](https://github.com/rust-lang) skills <img width="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/rust/rust.png">
 - Getting started with modern DevOps <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/devops/devops.png"></code>  
-- Playing around with a couple of other languages: PHP 8, Js (Vuejs mostly), Typescript, Julia
 
 **👨‍💼 In the past I worked mostly with**:
 - Python and its ecosystem: <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/python/python.png"></code>
@@ -39,7 +37,6 @@
   
 **🕵️‍ I'd also like to know more about..**
 - WebAssembly <code><img width="20px" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/web-assembly/web-assembly.png"></code>
-- GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 - Ruby <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/ruby/ruby.png"></code>
 - Azure <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/azure/azure.png"></code>
 - Microservices <code><img height="20" src="https://github.com/github/explore/blob/313e86ea40e1dc66bb2cf5fdfb44ff4f1dfc810e/topics/moleculer/moleculer.png"></code>
